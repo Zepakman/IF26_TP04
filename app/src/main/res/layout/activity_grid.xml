@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rowCount="2"
+    android:columnCount="2"
+    tools:context=".GridActivity">
+
+    <Button
+        android:id="@+id/G01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/g01"
+        tools:text="G01"
+        android:layout_row="1"
+        android:layout_column="1" />
+
+    <Button
+        android:id="@+id/G02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="2"
+        android:text="@string/g02"
+        tools:text="G02" />
+
+    <Button
+        android:id="@+id/G03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="2"
+        android:layout_column="1"
+        android:text="@string/g03"
+        tools:text="G03" />
+
+    <Button
+        android:id="@+id/G04"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="2"
+        android:layout_column="2"
+        android:text="@string/g04"
+        tools:text="G04" />
+</android.widget.GridLayout>

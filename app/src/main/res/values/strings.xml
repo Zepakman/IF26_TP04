@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bois_tp04</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+    <string name="nom_de_l_tudiant">Nom de l\'étudiant</string>
+    <string name="pr_nom_de">Prénom de l\'étudiant</string>
+    <string name="save_prenom">Sauver Prénom</string>
+    <string name="save_name">Sauver Nom</string>
+    <string name="prenom_etu">Prénom de l\'étudiant</string>
+    <string name="nom_etu">Nom de l\'étudiant</string>
+    <string name="g01">G01</string>
+    <string name="g02">G02</string>
+    <string name="g03">G03</string>
+    <string name="g04">G04</string>
+    <string name="d01">D01</string>
+    <string name="okButton">OK</string>
+    <string name="activity_layout_edittext">A REMPLIR</string>
+</resources>
